@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.TVDatePicker" parent="@style/Theme.Leanback" />
+</resources>
